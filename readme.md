@@ -2,6 +2,8 @@
 
 A real-time video conferencing web application built with **React**, **Node.js**, **Express**, **Socket.IO**, and **WebRTC**. This project allows multiple users to join a room, share their video/audio streams, and communicate in real-time, similar to Zoom.
 
+[Watch Demo](zoom.mp4)
+
 ---
 
 ## Features
